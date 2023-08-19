@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/FelixIG15/Gigih-Midterm.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/FelixIG15/gigih3.0-finalterm-fe.git
